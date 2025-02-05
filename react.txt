@@ -1,0 +1,13 @@
+REVISED props using tailwind and props
+revised useState;
+
+revised useCallBack; 
+@@@@ use call back is used for memorizing see the project of passwordGenerator all the things that we passed 
+in the dependency array can change so remeber the changes for htat we use call back
+
+revised useEffect;
+@@@@@ use ffect is use when if any of the things that are present in the useEffect is changed
+// then all of the function that we are passing will change 
+
+revised useRef;
+@@@@@ it take refrence 
