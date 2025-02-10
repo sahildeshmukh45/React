@@ -1,0 +1,20 @@
+npm install react-router-dom
+
+
+frist we make layout where we assured that our header and footer will be same for evrything 
+but outlet will change  we import outlet in react dom in layout 
+and then we go in main.jsx here top level is layout and inside the layout all the route that are 
+present will come see the main.jsx 
+
+how to make router? 
+:- see the main.jsx
+
+how to make dynamicValue
+ <Route path='user/:userId' element={<User/>}/>
+     const {userId}= useParams()
+
+
+see the onloader in github where we are fetching api and 
+also fetchig the data where we have use onLoader hook
+
+

@@ -10,4 +10,4 @@ revised useEffect;
 // then all of the function that we are passing will change 
 
 revised useRef;
-@@@@@ it take refrence 
+@@@@@ it take refrence and it is use to hold on that object or function
